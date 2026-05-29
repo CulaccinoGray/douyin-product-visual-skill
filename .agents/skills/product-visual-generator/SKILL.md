@@ -1,6 +1,6 @@
 ---
 name: product-visual-generator
-description: 当用户提供产品资料时，自动生成一套以抖音电商成交转化为核心的产品视觉方案，包括产品定位、用户人群、卖点排序、5-7 张主图/商品卡/广告/直播间入口图方案、10-15 屏详情页方案、逐图文案、视觉构图、AI 生图提示词、设计执行说明、合规风险检查，并整理为结构化 Markdown 文件。尤其适合食品、饮料、营养品等需要合规审查的类目。
+description: Generate Douyin e-commerce product visual strategies from product briefs, including main image concepts, detail page screen plans, compliant selling-point copy, visual direction, and AI image-generation prompts. Use when turning one product brief into Douyin product-card visuals, ad image concepts, livestream visual directions, or detail-page storyboards without calling image-generation APIs.
 ---
 
 # product-visual-generator
