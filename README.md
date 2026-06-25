@@ -24,6 +24,7 @@
 │   ├── product-template.md
 │   └── example-tea-huoli.md
 ├── outputs/
+│   └── tea-huoli-visual-plan.md
 └── .agents/
     └── skills/
         └── product-visual-generator/
